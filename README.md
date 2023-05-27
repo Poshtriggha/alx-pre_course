@@ -1,1 +1,2 @@
-M seond readme
+My first readme
+alx software engineering course
